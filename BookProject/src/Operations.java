@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 
 
-public class Operations { /// her sınıfın bir construtoru vardır javanın kendi metodurudr
+public class Operations { /// her sınıfın bir construtoru vardır javanın kendi metodudur
    //Kullanılacak import edilecekler
     Connection con = null;
     Statement sta= null;
